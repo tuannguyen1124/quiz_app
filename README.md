@@ -1,4 +1,5 @@
 # vue_tracnghiem
+Tạo 1 ứng dụng trắc nghiệm đơn giản dùng Vue JS
 
 ## Project setup
 ```
